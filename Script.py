@@ -14,9 +14,9 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
 
     SOURCE_TXT = """<b>
-✭ Sᴏᴜʀᴄᴇ - <a href='https://github.com/Rohaniscoder/EasyAdvAutoFilter>ʀᴇᴘᴏ ʟɪɴᴋ </a>
-✭ ғᴏʀ ᴀɴʏ ǫᴜᴇʀʏ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ </b>
-✭ ɪғ ʏᴏᴜ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʙᴏᴛ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀ ʜᴇ ᴡɪʟʟ ᴄʀᴇᴀᴛᴇ ʙᴏᴛ ғᴏʀ ʏᴏᴜ 🔰 ᴘᴀɪᴅ 🔰
+✭ Sᴏᴜʀᴄᴇ - <a href='https://github.com/Rohaniscoder/EasyAdvAutoFilter'>ʀᴇᴘᴏ ʟɪɴᴋ </a>
+✭ ғᴏʀ ᴀɴʏ ǫᴜᴇʀʏ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ 
+✭ ɪғ ʏᴏᴜ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʙᴏᴛ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀ ʜᴇ ᴡɪʟʟ ᴄʀᴇᴀᴛᴇ ʙᴏᴛ ғᴏʀ ʏᴏᴜ 🔰 ᴘᴀɪᴅ 🔰</b>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -102,7 +102,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ★ Tᴏᴛᴀʟ Cʜᴀᴛs: <code>{}</code>
 ★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
 ★ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
-★ <a href='t.me/UNKNOWN_MAN_ON_MISSION'>ᴜɴᴋɴᴏᴡɴ</a></b>
+★ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: <a href='t.me/UNKNOWN_MAN_ON_MISSION'>ᴜɴᴋɴᴏᴡɴ</a></b>
 •❅─────✧❅✦❅✧─────❅•"""
 
     LOG_TEXT_G = """#NewGroup
@@ -203,7 +203,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
     CAPTION = """
 <b><a href=https://t.me/Cinema_Moviesz>{file_name}</a>
 ▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : <a href="t.me/Cinema_Moviesz">@Cinema_Moviesz</a>
-▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : <a href="t.me/Unknown_Botz"></a>@Unknown_Botz</b>""" 
+▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : <a href="t.me/Unknown_Botz">@Unknown_Botz</a></b>""" 
 
     FORCE_SUB = """
 **⚠️ Pʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴛʜɪs ʀᴜʟe ⚠️
@@ -252,7 +252,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 <b> ⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
  ◈ ꜰᴜʟʟ ɴᴀᴍᴇ : ᴜɴᴋɴᴏᴡɴ ✌ 
  ◈ ᴅᴍ ʟɪɴᴋ : <a href='t.me/UNKNOWN_MAN_ON_MISSION'>ᴄʟɪᴄᴋ</a>
- ◈ ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ ʟɪᴋᴇ ᴛʜɪs <a href='t.me/UNKNOWN_MAN_ON_MISSION'>ᴄʟɪᴄᴋ</a>
+ ◈ ɪғ ʏᴏᴜ ᴡᴀɴᴛ ʏᴏᴜʀ ᴏᴡɴ ᴀɴʏ ᴛʏᴘᴇ ᴏғ ʙᴏᴛ ᴛʜᴇɴ ᴅᴍ ᴍᴇ " ᴘᴀɪᴅ " 
  </b>"""
 
     DISL_TXT = """
