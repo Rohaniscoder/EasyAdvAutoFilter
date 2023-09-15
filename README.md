@@ -102,6 +102,18 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rohaniscoder/EasyAdvAutoFilter)
 
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Rohaniscoder/EasyAdvAutoFilter&branch=main&name=EasyAdvAutoFilter)
+</details>
+
+
+<a href="https://railway.app/new/template/y0ryFO">
+<img src="https://railway.app/button.svg" alt="Deploy on Railway">
+</a>
+
+<a href="https://render.com/deploy?repo=https://github/Rohaniscoder/EasyAdvAutoFilter">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
+
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
