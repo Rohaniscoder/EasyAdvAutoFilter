@@ -99,14 +99,8 @@
 ) for more optional variables
 
 
-<details><summary>Deploy To Heroku</summary>
-<p>
-<br>
-<a href="https://heroku.com/deploy?template=https://github.com/Rohaniscoder/EasyAdvAutoFilter">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
-</a>
-</p>
-</details>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rohaniscoder/EasyAdvAutoFilter)
+
 
 <details><summary>Deploy To VPS</summary>
 <p>
