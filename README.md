@@ -95,14 +95,14 @@
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/Rohaniscoder/EasyAdvAutoFilter
+* Check [info.py](https://github.com/Rohaniscoder/EasyAdvAutoFilter/blob/main/info.py
 ) for more optional variables
 
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/spidyynaik/YDNewAuto">
+<a href="https://heroku.com/deploy?template=https://github.com/Rohaniscoder/EasyAdvAutoFilter">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
