@@ -23,14 +23,11 @@ Population : <code>{country.population()}</code>
     country_name = country.name()
     country_name = country_name.replace(" ", "+")
     buttons=[[
-      InlineKeyboardButton("ᴡɪᴋɪᴘᴇᴅɪᴀ", url=f"{country.wiki()}"),
-      InlineKeyboardButton("ɢᴏᴏɢʟᴇ", url=f"https://www.google.com/search?q={country_name}")
-    ],[
        InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close_data')
     ]]
     try:
         await update.reply_photo(
-            photo="https://telegra.ph/file/834750cfadc32b359b40c.jpg",
+            photo="https://graph.org/file/2316423d6fea0631f51f6.jpg",
             caption=info,
             reply_markup=InlineKeyboardMarkup(buttons),
             quote=True
